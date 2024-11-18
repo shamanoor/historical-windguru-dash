@@ -1,3 +1,2 @@
 .env
-*.xml
-*.iml
+.idea/*
